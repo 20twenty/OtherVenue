@@ -1,3 +1,3 @@
-ant debug
-adb install -r bin/MainActivity-debug.apk
+ant $1
+adb install -r bin/MainActivity-$1.apk
 adb shell "am start -a android,intent.action.MAIN -n com.othervenues.androidwv/.MainActivity"
