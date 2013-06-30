@@ -9,4 +9,5 @@
 /home/bbenware/projects/OtherVenues/bin/classes/com/othervenues/androidwv/R$attr.class \
 /home/bbenware/projects/OtherVenues/bin/classes/com/othervenues/androidwv/R$id.class \
 /home/bbenware/projects/OtherVenues/bin/classes/com/othervenues/androidwv/R$style.class \
+/home/bbenware/projects/OtherVenues/bin/classes/R.java.d \
 /home/bbenware/projects/OtherVenues/bin/dexedLibs/android-support-v4-e9bcc7c9923935245716229d05308776.jar \
